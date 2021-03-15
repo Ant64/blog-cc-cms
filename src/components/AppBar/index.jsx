@@ -35,9 +35,9 @@ export default function ButtonAppBar() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            CMS system - Crucial Comma blog
+            Crucial Comma blog - CMS
           </Typography>
-          <Button color="inherit">Login</Button>
+          <Button color="inherit">Log out</Button>
         </Toolbar>
       </AppBar>
     </div>
